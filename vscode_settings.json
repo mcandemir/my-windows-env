@@ -1,0 +1,46 @@
+{
+    "nebulaOni.update.restoreConfiguration": {
+        "themeSettings": {
+            "background": "Grey",
+            "main": "Bumblebee",
+            "highlight": "Ultra Violet",
+            "focusBorder": "ON",
+            "fontStyle": "Italic",
+            "syntaxBrightness": "Normal",
+            "comments": "Dark Violet",
+            "favorite": "OFF"
+        },
+        "favoriteSettings": {
+            "background": "Glacial Blue",
+            "main": "Sakura",
+            "highlight": "Ultra Violet",
+            "focusBorder": "ON",
+            "fontStyle": "Italic",
+            "comments": "Dark Magenta",
+            "favorite": "Nebula Oni (Pegasus)"
+        }
+    },
+    "terminal.integrated.env.windows": {},
+    "terminal.integrated.defaultProfile.windows": "Anaconda PowerShell",
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.profiles.windows": {
+        "Anaconda PowerShell": {
+            "path": "powershell.exe",
+            "args": ["-ExecutionPolicy", "ByPass", "-NoExit", "-Command", "& 'D:\\anaconda3\\shell\\condabin\\conda-hook.ps1'"],
+            "icon": "terminal-powershell"
+        }
+    },
+    "vscord.status.idle.timeout": 1500,
+    "vscode-pets.petSize": "medium",
+    "vscode-pets.theme": "beach",
+    "editor.minimap.enabled": false,
+    "notebook.output.scrolling": true,
+    "editor.unicodeHighlight.allowedLocales": {
+        "tr": true
+    },
+    "C_Cpp.default.compilerPath": "C:\\MinGW\\bin\\gcc.exe",
+    "workbench.colorTheme": "Nebula Oni (Cerberus)",
+    "editor.fontFamily": "'RobotoMono Nerd Font', monospace",
+    "terminal.integrated.fontFamily": "RobotoMono Nerd Font",
+    "editor.fontVariations": false
+}
